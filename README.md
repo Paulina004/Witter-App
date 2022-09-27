@@ -30,7 +30,7 @@ Similar to what I did for Part 1, I uploaded my walkthroguh GIF as a file in the
 
 ```<img src="twitterpart2.gif" alt='Video Walkthrough' />```
 
-**Please note that you will have to give GitHub few seconds to properly load this repository before the GIF shows up correctly.** You can also access my gif through the link below, which was the link I submitted in the CodePath Unit 3 submission area. 
+**Please note that you will have to give GitHub few seconds to properly load this repository before the GIF shows up correctly.** You can also access my gif through the link below, which was the link I submitted in the CodePath Unit 4 submission area. 
 
 https://i.imgur.com/c3mc0AE.gif
 
