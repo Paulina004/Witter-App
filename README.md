@@ -22,7 +22,17 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="twitterpart2.gif" alt='Video Walkthrough' />
+
+## GIF Notice
+
+Similar to what I did for Part 1, I uploaded my walkthroguh GIF as a file in the README and rewrote the script as follows to display it properly.
+
+```<img src="twitterpart2.gif" alt='Video Walkthrough' />```
+
+**Please note that you will have to give GitHub few seconds to properly load this repository before the GIF shows up correctly.** You can also access my gif through the link below, which was the link I submitted in the CodePath Unit 3 submission area. 
+
+https://i.imgur.com/c3mc0AE.gif
 
 ---
 
