@@ -1,13 +1,15 @@
-# Witter - Part II
+# Witter
 
 > [!IMPORTANT] 
 > This project was created for learning purposes only. ***Please refrain from copying, sharing, and/or using any of my work.*** Thank you.
 
-This is a basic twitter clone app to view, compose, favorite, and retweet tweets.
+This is a basic Twitter clone app to view, compose, favorite, and retweet tweets.
+
+## Witter - Part II
 
 Time spent: **10** hours spent in total
 
-## User Stories
+### User Stories
 
 The following **required** functionality is completed:
 
@@ -15,7 +17,7 @@ The following **required** functionality is completed:
 - [x] User can favorite a tweet. (4pts)
 - [x] User can retweet a tweet. (2pts)
 
-## Video Walkthrough
+### Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
@@ -25,16 +27,11 @@ Here's a walkthrough of implemented user stories:
 
 ---
 
-# Witter - Part I
-
-> [!IMPORTANT] 
-> This project was created for learning purposes only. ***Please refrain from copying, sharing, and/or using any of my work.*** Thank you.
-
-This is a basic twitter clone app to read your tweets.
+## Witter - Part I
 
 Time spent: **9** hours spent in total
 
-## User Stories
+### User Stories
 
 The following **required** functionality is completed:
 
@@ -49,7 +46,7 @@ The following **bonus** features are implemented:
 - [x] User can pull to refresh. (1pt)
 - [x] User can load past tweets infinitely. (2pts)
 
-## Video Walkthrough
+### Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
