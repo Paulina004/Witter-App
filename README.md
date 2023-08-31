@@ -1,9 +1,9 @@
-# Twitter - Part II
+# Witter - Part II
 
 > [!IMPORTANT] 
 > This project was created for learning purposes only. ***Please refrain from copying, sharing, and/or using any of my work.*** Thank you.
 
-This is a basic twitter app to view, compose, favorite, and retweet tweets.
+This is a basic twitter clone app to view, compose, favorite, and retweet tweets.
 
 Time spent: **10** hours spent in total
 
@@ -27,18 +27,16 @@ Similar to what I did for Part 1, I uploaded my walkthroguh GIF as a file in the
 
 ```<img src="twitterpart2.gif" alt='Video Walkthrough' />```
 
-**Please note that you will have to give GitHub few seconds to properly load this repository before the GIF shows up correctly.** You can also access my gif through the link below, which was the link I submitted in the CodePath Unit 4 submission area. 
-
-https://i.imgur.com/c3mc0AE.gif
+**Please note that you will have to give GitHub few seconds to properly load this repository before the GIF shows up correctly.** 
 
 ---
 
-# Twitter - Part I
+# Witter - Part I
 
 > [!IMPORTANT] 
 > This project was created for learning purposes only. ***Please refrain from copying, sharing, and/or using any of my work.*** Thank you.
 
-This is a basic twitter app to read your tweets.
+This is a basic twitter clone app to read your tweets.
 
 Time spent: **9** hours spent in total
 
@@ -63,16 +61,4 @@ Here's a walkthrough of implemented user stories:
 
 <img src="twitterpart1.gif" alt='Video Walkthrough' />
 
-## GIF Issue (Solved)
-
-GitHub was giving me trouble uploading the GIF (because my GIF was larger than the GitHub limit for GIF links to showcase all of my app's functionality) using the following script in the README.md template, which looks like this:
-
-```<img src='(https://i.imgur.com/6UKEJxe.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />```
-
-My solution to this problem was to upload the GIF as a file in the README and rewrite the script as follows to display it properly.
-
-```<img src="twitterpart1.gif" alt='Video Walkthrough' />```
-
-**Please note that you will have to give GitHub few seconds to properly load this repository before the GIF shows up correctly.** You can also access my gif through the link below, which was the link I submitted in the CodePath Unit 3 submission area. 
-
-https://i.imgur.com/6UKEJxe.gif
+**Please note that you will have to give GitHub few seconds to properly load this repository before the GIF shows up correctly.** 
